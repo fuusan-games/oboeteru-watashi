@@ -1,6 +1,6 @@
 # ふーです🐻。トーストに塗るのはメイプルシロップです。
 
-▶ **あそぶ: https://ryowatanabe1161-svg.github.io/oboeteru-watashi/**
+▶ **あそぶ: https://fuusan-games.github.io/oboeteru-watashi/**
 
 自己紹介して、覚えて、クイズで勝負！ オンラインで遊ぶパーティーゲーム（2〜8人・ふーさん🐻CPUもOK・約20分）。スマホ／PC対応。
 
